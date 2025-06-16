@@ -21,7 +21,8 @@ public static void main(String[] args) {
 	double num2 = 10.1;
 	boolean isRun = true;
 	//변수안에 참조값이 들어가는 참조데이터 타입//id가 들어있음
-	String yourName = "해골";
+	String yourName = "강아지";
+	
 	
 	//참조데이터는 기능 목록이 나옴 ,yourName.기능~
 	
