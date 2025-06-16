@@ -6,7 +6,7 @@ package test.main;
  * -전 세계에서 사용하는 몯든 문자 1글자를 표현할 수 있다
  * -single quotation을 이용해서 만든다.
  * */
-public class MainClass4 {
+public class MainClass04 {
 public static void main(String[] args) {
 	//char형 변수 선언과 동시에 값 대입하기
 	char ch1 ='a';
